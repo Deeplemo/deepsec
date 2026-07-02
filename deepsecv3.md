@@ -1,5 +1,5 @@
 ---
-name: pen-test
+name: deepsecv3
 description: >-
   渗透测试Agent操作系统(Cairn"无径之径"内核)。把渗透抽象成状态空间搜索:
   不预设固定路径/流程/角色,只维护 Fact(已验证事实)+Intent(探索方向)+Hint(人类注入)
